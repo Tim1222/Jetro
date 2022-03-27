@@ -1,3 +1,9 @@
 hmtl {
   box-sizing: border-box;
 }
+body {
+  background-color: #c9c9c9;
+}
+header {
+  background-color: red;
+}
